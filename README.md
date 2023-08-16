@@ -8,7 +8,7 @@ Soy un entusiasta de la tecnología con una curiosidad insaciable por comprender
 
 ## ¿Qué hago?
 
-Actualmente, me encuentro inmerso/a en el mundo del desarrollo de software, donde canalizo mi pasión por la programación para crear soluciones innovadoras y efectivas. Disfruto enfrentando desafíos complejos y transformándolos en aplicaciones y proyectos funcionales que aporten valor y facilidad a la vida cotidiana.
+Actualmente, me encuentro inmerso en el mundo del desarrollo de software, donde canalizo mi pasión por la programación para crear soluciones innovadoras y efectivas. Disfruto enfrentando desafíos complejos y transformándolos en aplicaciones y proyectos funcionales que aporten valor y facilidad a la vida cotidiana.
 
 ## Objetivos Profesionales
 

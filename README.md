@@ -31,4 +31,5 @@ Siempre estoy abierto/a a explorar nuevas tecnologías y herramientas que me per
 ¡Conéctate conmigo y únete a este emocionante viaje hacia la innovación y la resolución de problemas a través del código!
 
 [LinkedIn](https://www.linkedin.com/in/jhonatan-bol%C3%ADvar-b49869230/)
-Correo: jhonatanbolivar14@gmail.com
+
+[Correo](jhonatanbolivar14@gmail.com)

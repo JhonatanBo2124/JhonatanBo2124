@@ -12,7 +12,7 @@ Actualmente, me encuentro inmerso en el mundo del desarrollo de software, donde 
 
 ## Objetivos Profesionales
 
-Mi objetivo es aplicar mis habilidades como Fullstack Developer para abordar problemas reales y hacer una diferencia significativa en el mundo tecnológico. Estoy comprometido/a con la mejora continua y el aprendizaje constante, buscando oportunidades para crecer como profesional y como ser humano.
+Mi objetivo es aplicar mis habilidades como Fullstack Developer para abordar problemas reales y hacer una diferencia significativa en el mundo tecnológico. Estoy comprometido con la mejora continua y el aprendizaje constante, buscando oportunidades para crecer como profesional y como ser humano.
 
 ## Tecnologías que Uso
 
@@ -26,7 +26,7 @@ Mi objetivo es aplicar mis habilidades como Fullstack Developer para abordar pro
 - Git
 - Visual Studio Code
 
-Siempre estoy abierto/a a explorar nuevas tecnologías y herramientas que me permitan ampliar mis horizontes y mejorar mis capacidades como desarrollador.
+Siempre estoy abierto a explorar nuevas tecnologías y herramientas que me permitan ampliar mis horizontes y mejorar mis capacidades como desarrollador.
 
 ¡Conéctate conmigo y únete a este emocionante viaje hacia la innovación y la resolución de problemas a través del código!
 

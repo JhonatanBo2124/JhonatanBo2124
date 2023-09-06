@@ -1,6 +1,6 @@
 # ¡Hola, mundo! 👋
 
-¡Bienvenido/a a mi rincón en GitHub! Soy Jhonatan, un apasionado estudiante de Ingeniería de Sistemas en la Universidad del Valle. Recientemente, he completado con éxito la carrera de Fullstack Developer en el bootcamp intensivo de programación de Henry. Estoy en una emocionante misión para impactar al mundo a través de la resolución de problemas mediante el poder del código.
+¡Bienvenido/a a mi rincón en GitHub! Soy Jhonatan, un apasionado estudiante de Tecnologia en desarrollo de software en la Universidad del Valle. Recientemente, he completado con éxito la carrera de Fullstack Developer en el bootcamp intensivo de programación de Henry. Estoy en una emocionante misión para impactar al mundo a través de la resolución de problemas mediante el poder del código.
 
 ## ¿Quién soy?
 
